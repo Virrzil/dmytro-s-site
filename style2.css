@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(135deg, #000000, #1a1a1a, #333333);
+    color: #ffffff;
+}
+
+header {
+    padding: 40px 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background: rgba(255,255,255,0.05);
+    border-radius: 15px;
+}
+
+img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    margin: 15px 0;
+}
+
+button {
+    padding: 15px 30px;
+    background: #00ffd5;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #00bfa6;
+}
