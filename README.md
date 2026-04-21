@@ -7,3 +7,4 @@ https://github.com/Virrzil/dmytro-s-site.git
 - Google Analytics
 - Доступність (alt, lazy loading)
 - Інтерактив через JavaScript
+- <a href = "index2.html">Link to page</a> 
